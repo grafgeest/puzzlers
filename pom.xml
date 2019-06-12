@@ -13,6 +13,7 @@
         <module>oca</module>
         <module>generics</module>
         <module>java8</module>
+        <module>core</module>
     </modules>
 
     <dependencyManagement>
